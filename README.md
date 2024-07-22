@@ -1,3 +1,3 @@
 # basic_scripts
 
-Three scripts to perform basic tasks
+These scripts contain code to perform basic tasks with bash
